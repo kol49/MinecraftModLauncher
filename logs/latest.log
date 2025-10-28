@@ -1,0 +1,1428 @@
+[19:44:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:44:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:44:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:44:20] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[19:44:20] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at C:\Users\multv\AppData\Roaming\.minecraft\runtime\jre-legacy\windows-x64\jre-legacy
+[19:44:21] [main/INFO] [FML]: Searching C:\Users\multv\1L.py\LauncherRTK\mods for mods
+[19:44:21] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:44:21] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:44:21] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[19:44:21] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:44:21] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:44:21] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[19:44:21] [main/INFO] [FML]: Loading tweaker customskinloader.forge.ForgeTweaker from CustomSkinLoader_ForgeV1-14.25.jar
+[19:44:21] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in LittleTiles_v1.5.87_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:44:21] [main/WARN] [FML]: The coremod com.creativemd.littletiles.LittlePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:44:21] [main/WARN] [FML]: The coremod LittlePatchingLoader (com.creativemd.littletiles.LittlePatchingLoader) is not signed!
+[19:44:21] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[19:44:21] [main/WARN] [FML]: The coremod PlayerAPIPlugin (api.player.forge.PlayerAPIPlugin) is not signed!
+[19:44:21] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.6.3.jar
+[19:44:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:44:21] [main/INFO] [LaunchWrapper]: Loading tweak class name customskinloader.forge.ForgeTweaker
+[19:44:21] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[19:44:21] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[19:44:21] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/C:/Users/multv/1L.py/LauncherRTK/mods/voicechat-forge-1.12.2-2.6.3.jar Service=LaunchWrapper Env=CLIENT
+[19:44:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:44:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:44:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:44:21] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[19:44:21] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[19:44:21] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[19:44:21] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[19:44:21] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\multv\1L.py\LauncherRTK\mods\OptiFine_1.12.2_HD_U_G5.jar
+[19:44:21] [main/INFO] [LaunchWrapper]: Calling tweak class customskinloader.forge.ForgeTweaker
+[19:44:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:44:22] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:44:22] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[19:44:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:44:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:44:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:44:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:44:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:44:23] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[19:44:23] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[19:44:23] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@288cdaab
+[19:44:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:44:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:44:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:44:23] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:44:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:44:23] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:44:23] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[19:44:23] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NetHandlerPlayServer ...
+[19:44:23] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.Minecraft ...
+[19:44:23] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[19:44:23] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.Minecraft ...
+[19:44:23] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.multiplayer.WorldClient ...
+[19:44:24] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.multiplayer.WorldClient ...
+[19:44:24] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.Entity ...
+[19:44:24] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayer ...
+[19:44:24] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraftforge.client.ForgeHooksClient ...
+[19:44:24] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.ForgeHooksClient], Method [getDamageModel]
+[19:44:24] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.ForgeHooksClient Finished.
+[19:44:24] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: kol49
+[19:44:24] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[19:44:24] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[19:44:24] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.util.math.AxisAlignedBB ...
+[19:44:25] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.util.ITickable ...
+[19:44:26] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayerMP ...
+[19:44:27] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Forge ***
+[19:44:27] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.Entity ...
+[19:44:27] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Vanilla ***
+[19:44:27] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[19:44:27] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[19:44:27] [Client thread/INFO] [Config]: [OptiFine] 
+[19:44:27] [Client thread/INFO] [Config]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[19:44:27] [Client thread/INFO] [Config]: [OptiFine] Build: 20210124-142939
+[19:44:27] [Client thread/INFO] [Config]: [OptiFine] OS: Windows 8.1 (amd64) version 6.3
+[19:44:27] [Client thread/INFO] [Config]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[19:44:27] [Client thread/INFO] [Config]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[19:44:27] [Client thread/INFO] [Config]: [OptiFine] LWJGL: 2.9.4
+[19:44:27] [Client thread/INFO] [Config]: [OptiFine] OpenGL: NVIDIA GeForce RTX 3060/PCIe/SSE2, version 4.6.0 NVIDIA 580.88, NVIDIA Corporation
+[19:44:27] [Client thread/INFO] [Config]: [OptiFine] OpenGL Version: 4.6.0
+[19:44:27] [Client thread/INFO] [Config]: [OptiFine] Maximum texture size: 32768x32768
+[19:44:27] [VersionCheck/INFO] [Config]: [OptiFine] Checking for new version
+[19:44:28] [VersionCheck/INFO] [Config]: [OptiFine] Version found: G5
+[19:44:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 580.88
+[19:44:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Vendor:  NVIDIA Corporation
+[19:44:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Renderer: NVIDIA GeForce RTX 3060/PCIe/SSE2
+[19:44:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[19:44:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[19:44:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[19:44:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[19:44:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Load shaders configuration.
+[19:44:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Save shaders configuration.
+[19:44:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] No shaderpack loaded.
+[19:44:28] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[19:44:28] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[19:44:28] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[19:44:28] [Client thread/INFO] [FML]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_G5, enabling compatibility features
+[19:44:28] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 7562797888 bytes (7212 MB) / 8232370176 bytes (7851 MB) up to 8232370176 bytes (7851 MB)
+	JVM Flags: 2 total; -Xmx8G -Xms8G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+CreativePatchingLoader (CreativeCore_v1.10.71_mc1.12.2.jar)
+  
+ForgePlugin (CustomSkinLoader_ForgeV1-14.25.jar)
+  customskinloader.forge.loader.LaunchWrapper
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+PlayerAPIPlugin (PlayerAPI_1.12.2_1.0.jar)
+  api.player.forge.PlayerAPITransformer
+LittlePatchingLoader (LittleTiles_v1.5.87_mc1.12.2.jar)
+  com.creativemd.littletiles.LittleTilesTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 580.88' Renderer: 'NVIDIA GeForce RTX 3060/PCIe/SSE2'
+[19:44:28] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[19:44:28] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:44:28] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[19:44:28] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[19:44:28] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraftforge.common.ForgeHooks ...
+[19:44:28] [Client thread/INFO] [FML]: Searching C:\Users\multv\1L.py\LauncherRTK\mods for mods
+[19:44:29] [Client thread/WARN] [FML]: Mod magistuarmory is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.1
+[19:44:29] [Client thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
+[19:44:29] [Client thread/WARN] [FML]: Mod spiderstpo is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.2
+[19:44:29] [Client thread/WARN] [FML]: Mod voicechat_api is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.0
+[19:44:29] [Client thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.6.3
+[19:44:30] [Client thread/INFO] [FML]: Forge Mod Loader has identified 35 mods to load
+[19:44:30] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, littletilescore, PlayerAPI, customskinloader, magistuarmory, additional_lights, astikorcarts, betterquesting, bibliocraft, biomesoplenty, carryon, chisel, chiselsandbits, create, creativecore, ctm, dynamictrees, jei, littletiles, melonlib, mobends, mysticallib, nefdecomod, harvestcraft, rtkclient, spiderstpo, bq_standard, trapcraft, voicechat_api, voicechat, worldedit] at CLIENT
+[19:44:30] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, littletilescore, PlayerAPI, customskinloader, magistuarmory, additional_lights, astikorcarts, betterquesting, bibliocraft, biomesoplenty, carryon, chisel, chiselsandbits, create, creativecore, ctm, dynamictrees, jei, littletiles, melonlib, mobends, mysticallib, nefdecomod, harvestcraft, rtkclient, spiderstpo, bq_standard, trapcraft, voicechat_api, voicechat, worldedit] at SERVER
+[19:44:30] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.PacketBuffer ...
+[19:44:30] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 128491500 nanos
+[19:44:30] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureMap], Method [registerSprite]
+[19:44:30] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureMap Finished.
+[19:44:30] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureAtlasSprite], Method [updateAnimationInterpolated]
+[19:44:30] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureAtlasSprite Finished.
+[19:44:31] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.renderer.BufferBuilder ...
+[19:44:31] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.renderer.RenderGlobal ...
+[19:44:31] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CustomSkinLoader, FMLFileResourcePack:Epic Knights: Armor and Weapons, FMLFileResourcePack:Additional Lights, FMLFileResourcePack:AstikorCarts, FMLFileResourcePack:Better Questing, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Carry On, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:Create Legacy, FMLFileResourcePack:CreativeCore, FMLFileResourcePack:CTM, FMLFileResourcePack:Dynamic Trees, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:LittleTiles, FMLFileResourcePack:MelonLib, FMLFileResourcePack:Mo' Bends, FMLFileResourcePack:Mystical Lib, FMLFileResourcePack:Nef Deco Mod, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:RTK Protect, FMLFileResourcePack:Spiders 2.0, FMLFileResourcePack:Standard Expansion, FMLFileResourcePack:Trapcraft, FMLFileResourcePack:Simple Voice Chat API, FMLFileResourcePack:Simple Voice Chat, FMLFileResourcePack:WorldEdit
+[19:44:31] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[19:44:31] [Client thread/INFO] [FML]: Found 1511 ObjectHolder annotations
+[19:44:31] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[19:44:31] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[19:44:31] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:44:31] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[19:44:32] [Client thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[19:44:32] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Found status: UP_TO_DATE Target: null
+[19:44:32] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:44:33] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[19:44:33] [Forge Version Check/INFO] [forge.VersionCheck]: [trapcraft] Starting version check at https://raw.githubusercontent.com/ProPercivalalb/Trapcraft/master/version.json
+[19:44:33] [Forge Version Check/INFO] [forge.VersionCheck]: [trapcraft] Found status: OUTDATED Target: 2.4.4
+[19:44:33] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[19:44:33] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[19:44:34] [Client thread/INFO] [Create Legacy]: Starting BitSplitter tests
+[19:44:34] [Client thread/WARN] [Create Legacy]: Warning: inconsistent tests crash the game!!
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 1: origin = -44
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 1: bit conversion = [false, false, true, false, true, false, true, true]
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 1: result = -44
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 2: origin = -2078204805
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 2: byte conversion = [123, 28, 33, -124]
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 2: result = -2078204805
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 3: origin = 1201862405
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 3: byte conversion = [5, -9, -94, 71]
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 3: result = 1201862405
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 4: origin = 255
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 4: byte conversion = [-1, 0, 0, 0]
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 4: first byte = -1
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 4: last byte = 0
+[19:44:34] [Client thread/INFO] [Create Legacy]: Test 4: booleans = 11111111000000000000000000000000
+[19:44:34] [Client thread/INFO] [Create Legacy]: BitSplitter tests completed without error!
+[19:44:34] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper], Method [getTextures]
+[19:44:34] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper Finished.
+[19:44:34] [Client thread/INFO] [FML]: Applying holder lookups
+[19:44:34] [Client thread/INFO] [FML]: Holder lookups applied
+[19:44:34] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:34] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled.tesr`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:34] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitybittank`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:34] [Client thread/INFO] [STDOUT]: [com.ferreusveritas.dynamictrees.ModConfigs:preInit:112]: DynamicTrees BlackListed DimValue: 7
+[19:44:34] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `species_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:34] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bonsai_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/INFO] [FML]: OBJLoader: Domain nefdecomod has been added.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `apple`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `wheat`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `carrot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `melon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clownfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pufferfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `baked_potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/INFO] [FML]: OBJLoader: Domain mysticallib has been added.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bookcase`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `shelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `markerpole`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clipboard`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bibliolight`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furniturepaneler`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `potionshelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `toolrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `label`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `desk`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `table`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `seat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancysign`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancyworkbench`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `framedchest`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mapframe`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `case`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clock`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeborderless`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframefancy`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeflat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframemiddle`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframesimple`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `armorstand`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typesettingtable`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `printingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookiejar`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dinnerplate`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `discrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `swordpedestal`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bell`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typewriter`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:36] [Client thread/INFO] [Chisel]: Loading blocks...
+[19:44:36] [Client thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[19:44:36] [Client thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:44:36] [Client thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[19:44:36] [Client thread/INFO] [Chisel]: 72 Feature's blocks loaded.
+[19:44:36] [Client thread/INFO] [Chisel]: Loading Tile Entities...
+[19:44:36] [Client thread/INFO] [Chisel]: Tile Entities loaded.
+[19:44:37] [Client thread/INFO] [FML]: Applying holder lookups
+[19:44:37] [Client thread/INFO] [FML]: Holder lookups applied
+[19:44:37] [Client thread/WARN] [FML]: ****************************************
+[19:44:37] [Client thread/WARN] [FML]: * Registry Item: The object com.magistuarmory.item.HalfarmorItem@218b7797 has been registered twice for the same name magistuarmory:barbute.
+[19:44:37] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:300)
+[19:44:37] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:281)
+[19:44:37] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.register(ForgeRegistry.java:113)
+[19:44:37] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.registerAll(ForgeRegistry.java:154)
+[19:44:37] [Client thread/WARN] [FML]: *  at com.magistuarmory.init.ModItems.registerItems(ModItems.java:509)
+[19:44:37] [Client thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_9_ModItems_registerItems_Register.invoke(.dynamic)...
+[19:44:37] [Client thread/WARN] [FML]: ****************************************
+[19:44:37] [Client thread/WARN] [FML]: ****************************************
+[19:44:37] [Client thread/WARN] [FML]: * Registry Item: The object com.magistuarmory.item.HalfarmorItem@2f9ceea8 has been registered twice for the same name magistuarmory:halfarmor_chestplate.
+[19:44:37] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:300)
+[19:44:37] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:281)
+[19:44:37] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.register(ForgeRegistry.java:113)
+[19:44:37] [Client thread/WARN] [FML]: *  at net.minecraftforge.registries.ForgeRegistry.registerAll(ForgeRegistry.java:154)
+[19:44:37] [Client thread/WARN] [FML]: *  at com.magistuarmory.init.ModItems.registerItems(ModItems.java:509)
+[19:44:37] [Client thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_9_ModItems_registerItems_Register.invoke(.dynamic)...
+[19:44:37] [Client thread/WARN] [FML]: ****************************************
+[19:44:37] [Client thread/INFO] [Chisel]: Loading items...
+[19:44:37] [Client thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[19:44:37] [Client thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:44:37] [Client thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[19:44:37] [Client thread/INFO] [Chisel]: 72 Feature's items loaded.
+[19:44:37] [Client thread/INFO] [FML]: Applying holder lookups
+[19:44:37] [Client thread/INFO] [FML]: Holder lookups applied
+[19:44:37] [Client thread/INFO] [FML]: Applying holder lookups
+[19:44:37] [Client thread/INFO] [FML]: Holder lookups applied
+[19:44:37] [Client thread/INFO] [FML]: OBJLoader: Domain bibliocraft has been added.
+[19:44:37] [Client thread/INFO] [FML]: Applying holder lookups
+[19:44:37] [Client thread/INFO] [FML]: Holder lookups applied
+[19:44:37] [Client thread/INFO] [FML]: Injecting itemstacks
+[19:44:37] [Client thread/INFO] [FML]: Itemstack injection complete
+[19:44:37] [Client thread/INFO] [Config]: [OptiFine] *** Reloading textures ***
+[19:44:37] [Client thread/INFO] [Config]: [OptiFine] Resource packs: Default
+[19:44:38] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[19:44:38] [Thread-8/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[19:44:38] [Thread-8/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:44:38] [Thread-8/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[19:44:38] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[19:44:40] [Client thread/ERROR] [FML]: Could not load override model magistuarmory:item/commonshield_blocking for model magistuarmory:models/item/ellipticalshield
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model magistuarmory:item/commonshield_blocking with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getDependencies(ModelLoader.java:364) [ModelLoader$VanillaModelWrapper.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:182) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getTextures(ModelLoader.java:387) [ModelLoader$VanillaModelWrapper.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:171) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) [cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: magistuarmory:models/item/commonshield_blocking.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 20 more
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] Mipmap levels: 4
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] Multitexture: false
+[19:44:41] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.optifine.ConnectedTextures ...
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] Multipass connected textures: false
+[19:44:41] [Client thread/INFO] [Config]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[19:44:41] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Using missing texture, unable to load minecraft:textures/items/silver_chivalrylance.png, java.io.FileNotFoundException
+[19:44:41] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayer ...
+[19:44:42] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Using missing texture, unable to load minecraft:textures/items/gold_chivalrylance.png, java.io.FileNotFoundException
+[19:44:42] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: additional_lights:block/fire_lit, 12 -> 16
+[19:44:42] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Using missing texture, unable to load nefdecomod:textures/blocks/.png, java.io.FileNotFoundException
+[19:44:42] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Using missing texture, unable to load minecraft:textures/items/copper_chivalrylance.png, java.io.FileNotFoundException
+[19:44:42] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: additional_lights:block/allamp, 6 -> 16
+[19:44:42] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Using missing texture, unable to load minecraft:textures/items/wood_chivalrylance.png, java.io.FileNotFoundException
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Using missing texture, unable to load minecraft:textures/items/steel_chivalrylance.png, java.io.FileNotFoundException
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/book1.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/book4.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/book5.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/book2.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/book3.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Using missing texture, unable to load create:textures/block/palettes/vertical_framed_glass.png, java.io.FileNotFoundException
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Using missing texture, unable to load minecraft:textures/items/stone_chivalrylance.png, java.io.FileNotFoundException
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Using missing texture, unable to load minecraft:textures/items/bronze_chivalrylance.png, java.io.FileNotFoundException
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Using missing texture, unable to load minecraft:textures/block/texture.png, java.io.FileNotFoundException
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/signicon1.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/signicon2.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/signicon7.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/signicon5.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/signicon6.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/signicon3.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Unable to parse metadata from nefdecomod:textures/blocks/signicon4.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_188538_a(TextureAtlasSprite.java:380) ~[cdq.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:228) [cdp.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152) [cdp.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:43] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: additional_lights:block/fire_lit2, 6 -> 16
+[19:44:43] [Client thread/ERROR] [net.minecraft.client.renderer.texture.TextureMap]: Using missing texture, unable to load minecraft:textures/items/tin_chivalrylance.png, java.io.FileNotFoundException
+[19:44:43] [Client thread/INFO] [Config]: [OptiFine] Custom loader sprites: 7
+[19:44:43] [Client thread/INFO] [Config]: [OptiFine] Sprite dependencies: 11
+[19:44:44] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 2048x2048 textures-atlas
+[19:44:44] [Client thread/INFO] [Config]: [OptiFine] Animated sprites: 95
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model dynamictrees:block/saplings/tallbirch with loader VanillaLoader.INSTANCE, skipping
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling.<init>(BakedModelSapling.java:68)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at com.ferreusveritas.dynamictrees.models.loaders.ModelLoaderSapling$1.bake(ModelLoaderSapling.java:26)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.bake(ModelLoader.java:719)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:180)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[19:44:45] [Client thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[19:44:45] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.io.FileNotFoundException: dynamictrees:models/block/saplings/tallbirch.json
+[19:44:45] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69)
+[19:44:45] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65)
+[19:44:45] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365)
+[19:44:45] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115)
+[19:44:45] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861)
+[19:44:45] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157)
+[19:44:45] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	... 15 more
+[19:44:45] [Client thread/ERROR] [FML]: Could not load override model magistuarmory:item/commonshield_blocking for model magistuarmory:models/item/ellipticalshield
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model magistuarmory:item/commonshield_blocking with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getDependencies(ModelLoader.java:364) [ModelLoader$VanillaModelWrapper.class:?]
+	at team.chisel.ctm.client.util.TextureMetadataHandler.onModelBake(TextureMetadataHandler.java:149) [TextureMetadataHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_162_TextureMetadataHandler_onModelBake_ModelBakeEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:414) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: magistuarmory:models/item/commonshield_blocking.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 18 more
+[19:44:46] [Client thread/ERROR] [FML]: Could not load override model magistuarmory:item/commonshield_blocking for model magistuarmory:models/item/ellipticalshield
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model magistuarmory:item/commonshield_blocking with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getDependencies(ModelLoader.java:364) [ModelLoader$VanillaModelWrapper.class:?]
+	at team.chisel.ctm.client.util.TextureMetadataHandler.onModelBake(TextureMetadataHandler.java:149) [TextureMetadataHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_162_TextureMetadataHandler_onModelBake_ModelBakeEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:414) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: magistuarmory:models/item/commonshield_blocking.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 18 more
+[19:44:46] [Client thread/ERROR] [FML]: Could not load override model magistuarmory:item/commonshield_blocking for model magistuarmory:models/item/ellipticalshield
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model magistuarmory:item/commonshield_blocking with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getDependencies(ModelLoader.java:364) [ModelLoader$VanillaModelWrapper.class:?]
+	at team.chisel.ctm.client.util.TextureMetadataHandler.onModelBake(TextureMetadataHandler.java:149) [TextureMetadataHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_162_TextureMetadataHandler_onModelBake_ModelBakeEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:414) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: magistuarmory:models/item/commonshield_blocking.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 18 more
+[19:44:46] [Client thread/ERROR] [FML]: Could not load override model magistuarmory:item/commonshield_blocking for model magistuarmory:models/item/ellipticalshield
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model magistuarmory:item/commonshield_blocking with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getDependencies(ModelLoader.java:364) [ModelLoader$VanillaModelWrapper.class:?]
+	at team.chisel.ctm.client.util.TextureMetadataHandler.onModelBake(TextureMetadataHandler.java:149) [TextureMetadataHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_162_TextureMetadataHandler_onModelBake_ModelBakeEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:414) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: magistuarmory:models/item/commonshield_blocking.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 18 more
+[19:44:46] [Client thread/ERROR] [FML]: Could not load override model magistuarmory:item/commonshield_blocking for model magistuarmory:models/item/ellipticalshield
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model magistuarmory:item/commonshield_blocking with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getDependencies(ModelLoader.java:364) [ModelLoader$VanillaModelWrapper.class:?]
+	at team.chisel.ctm.client.util.TextureMetadataHandler.onModelBake(TextureMetadataHandler.java:149) [TextureMetadataHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_162_TextureMetadataHandler_onModelBake_ModelBakeEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:414) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: magistuarmory:models/item/commonshield_blocking.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 18 more
+[19:44:46] [Client thread/ERROR] [FML]: Could not load override model magistuarmory:item/commonshield_blocking for model magistuarmory:models/item/ellipticalshield
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model magistuarmory:item/commonshield_blocking with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getDependencies(ModelLoader.java:364) [ModelLoader$VanillaModelWrapper.class:?]
+	at team.chisel.ctm.client.util.TextureMetadataHandler.onModelBake(TextureMetadataHandler.java:149) [TextureMetadataHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_162_TextureMetadataHandler_onModelBake_ModelBakeEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:414) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: magistuarmory:models/item/commonshield_blocking.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 18 more
+[19:44:46] [Client thread/ERROR] [FML]: Could not load override model magistuarmory:item/commonshield_blocking for model magistuarmory:models/item/ellipticalshield
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model magistuarmory:item/commonshield_blocking with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getDependencies(ModelLoader.java:364) [ModelLoader$VanillaModelWrapper.class:?]
+	at team.chisel.ctm.client.util.TextureMetadataHandler.onModelBake(TextureMetadataHandler.java:149) [TextureMetadataHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_162_TextureMetadataHandler_onModelBake_ModelBakeEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:414) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: magistuarmory:models/item/commonshield_blocking.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 18 more
+[19:44:46] [Client thread/ERROR] [FML]: Could not load override model magistuarmory:item/commonshield_blocking for model magistuarmory:models/item/ellipticalshield
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model magistuarmory:item/commonshield_blocking with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getDependencies(ModelLoader.java:364) [ModelLoader$VanillaModelWrapper.class:?]
+	at team.chisel.ctm.client.util.TextureMetadataHandler.onModelBake(TextureMetadataHandler.java:149) [TextureMetadataHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_162_TextureMetadataHandler_onModelBake_ModelBakeEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:414) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: magistuarmory:models/item/commonshield_blocking.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 18 more
+[19:44:46] [Client thread/ERROR] [FML]: Could not load override model magistuarmory:item/commonshield_blocking for model magistuarmory:models/item/ellipticalshield
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model magistuarmory:item/commonshield_blocking with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getDependencies(ModelLoader.java:364) [ModelLoader$VanillaModelWrapper.class:?]
+	at team.chisel.ctm.client.util.TextureMetadataHandler.onModelBake(TextureMetadataHandler.java:149) [TextureMetadataHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_162_TextureMetadataHandler_onModelBake_ModelBakeEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:414) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: magistuarmory:models/item/commonshield_blocking.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 18 more
+[19:44:46] [Client thread/ERROR] [FML]: Could not load override model magistuarmory:item/commonshield_blocking for model magistuarmory:models/item/ellipticalshield
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model magistuarmory:item/commonshield_blocking with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getDependencies(ModelLoader.java:364) [ModelLoader$VanillaModelWrapper.class:?]
+	at team.chisel.ctm.client.util.TextureMetadataHandler.onModelBake(TextureMetadataHandler.java:149) [TextureMetadataHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_162_TextureMetadataHandler_onModelBake_ModelBakeEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:414) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: magistuarmory:models/item/commonshield_blocking.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 18 more
+[19:44:46] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.renderer.BlockModelRenderer ...
+[19:44:46] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace ...
+[19:44:46] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.renderer.vertex.VertexBuffer ...
+[19:44:47] [Client thread/ERROR] [FML]: Parsing error loading recipe magistuarmory:woolen_fabric_from_strings
+com.google.gson.JsonSyntaxException: Pattern references symbol 's' but it's not defined in the key
+	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:245) ~[ShapedOreRecipe.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$993/1793536349.parse(Unknown Source) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$1005/1898648893.apply(Unknown Source) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$1003/2072241726.accept(Unknown Source) [CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1249) [?:1.8.0_51]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:47] [Client thread/ERROR] [FML]: Parsing error loading recipe magistuarmory:netherite_chainmorgenstern
+com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+	at net.minecraft.util.JsonUtils.func_151200_h(SourceFile:107) ~[rc.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:408) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$1005/1898648893.apply(Unknown Source) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$1003/2072241726.accept(Unknown Source) [CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1249) [?:1.8.0_51]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:47] [Client thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:markerpole
+com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:488) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$991/1184669216.parse(Unknown Source) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$1005/1898648893.apply(Unknown Source) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$1003/2072241726.accept(Unknown Source) [CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1249) [?:1.8.0_51]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:47] [Client thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:clipboard
+com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:488) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$991/1184669216.parse(Unknown Source) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$1005/1898648893.apply(Unknown Source) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) [CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$1003/2072241726.accept(Unknown Source) [CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1249) [?:1.8.0_51]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:44:48] [Client thread/INFO] [Chisel]: Loading recipes...
+[19:44:48] [Client thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[19:44:48] [Client thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:44:48] [Client thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[19:44:48] [Client thread/INFO] [Chisel]: 72 Feature's recipes loaded.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Unable to find recipe for minecraft:rabbit_stew
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Unable to find recipe for minecraft:baked_potato
+[19:44:48] [Client thread/INFO] [FML]: Applying holder lookups
+[19:44:48] [Client thread/INFO] [FML]: Holder lookups applied
+[19:44:48] [Client thread/INFO] [jei]: Created: 128x256 textures-atlas
+[19:44:48] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.renderer.chunk.RenderChunk ...
+[19:44:48] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.renderer.chunk.RenderChunk ...
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentity`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentityticking`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentityrendered`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentitytickingrendered`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:ocean;OCEAN;0.5;false;false;false;[WATER, OCEAN]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:plains;MEDIUM;0.8;false;false;false;[PLAINS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:desert;WARM;2.0;false;false;false;[DRY, HOT, SANDY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:extreme_hills;MEDIUM;0.2;false;false;false;[MOUNTAIN, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:forest;MEDIUM;0.7;false;false;false;[FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:taiga;MEDIUM;0.25;false;false;false;[CONIFEROUS, FOREST, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:swampland;MEDIUM;0.8;true;false;false;[WET, SWAMP]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:river;MEDIUM;0.5;false;false;false;[WATER, RIVER]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:hell;WARM;2.0;false;false;false;[DRY, HOT, NETHER]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:sky;MEDIUM;0.5;false;false;false;[END, DRY, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:frozen_ocean;OCEAN;0.0;false;false;true;[WATER, COLD, OCEAN, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:frozen_river;COLD;0.0;false;false;true;[WATER, RIVER, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:ice_flats;COLD;0.0;false;false;true;[WASTELAND, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:ice_mountains;COLD;0.0;false;false;true;[MOUNTAIN, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mushroom_island;MEDIUM;0.9;true;false;false;[RARE, MUSHROOM]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mushroom_island_shore;MEDIUM;0.9;true;false;false;[RARE, BEACH, MUSHROOM]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:beaches;MEDIUM;0.8;false;false;false;[BEACH]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:desert_hills;WARM;2.0;false;false;false;[DRY, HOT, SANDY, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:forest_hills;MEDIUM;0.7;false;false;false;[FOREST, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:taiga_hills;MEDIUM;0.25;false;false;false;[CONIFEROUS, FOREST, COLD, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:smaller_extreme_hills;MEDIUM;0.2;false;false;false;[MOUNTAIN]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:jungle;MEDIUM;0.95;true;false;false;[DENSE, JUNGLE, WET, HOT]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:jungle_hills;MEDIUM;0.95;true;false;false;[DENSE, JUNGLE, WET, HOT, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:jungle_edge;MEDIUM;0.95;false;false;false;[RARE, JUNGLE, WET, HOT, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:deep_ocean;OCEAN;0.5;false;false;false;[WATER, OCEAN]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:stone_beach;MEDIUM;0.2;false;false;false;[BEACH]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:cold_beach;COLD;0.05;false;false;true;[BEACH, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:birch_forest;MEDIUM;0.6;false;false;false;[FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:birch_forest_hills;MEDIUM;0.6;false;false;false;[FOREST, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:roofed_forest;MEDIUM;0.7;false;false;false;[DENSE, FOREST, SPOOKY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:taiga_cold;COLD;-0.5;false;false;true;[CONIFEROUS, FOREST, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:taiga_cold_hills;COLD;-0.5;false;false;true;[CONIFEROUS, FOREST, COLD, SNOWY, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:redwood_taiga;MEDIUM;0.3;false;false;false;[CONIFEROUS, FOREST, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:redwood_taiga_hills;MEDIUM;0.3;false;false;false;[CONIFEROUS, FOREST, COLD, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:extreme_hills_with_trees;MEDIUM;0.2;false;false;false;[SPARSE, MOUNTAIN, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:savanna;WARM;1.2;false;false;false;[SAVANNA, PLAINS, SPARSE, HOT]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:savanna_rock;WARM;1.0;false;false;false;[SAVANNA, PLAINS, RARE, SPARSE, HOT]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mesa;WARM;2.0;false;false;false;[MESA, DRY, SANDY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mesa_rock;WARM;2.0;false;false;false;[MESA, SPARSE, DRY, SANDY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mesa_clear_rock;WARM;2.0;false;false;false;[MESA, DRY, SANDY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:void;MEDIUM;0.5;false;false;false;[VOID]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_plains;MEDIUM;0.8;false;true;false;[PLAINS, RARE]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_desert;WARM;2.0;false;true;false;[RARE, DRY, HOT, SANDY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_extreme_hills;MEDIUM;0.2;false;true;false;[RARE, SPARSE, MOUNTAIN]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_forest;MEDIUM;0.7;false;true;false;[RARE, FOREST, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_taiga;MEDIUM;0.25;false;true;false;[RARE, CONIFEROUS, MOUNTAIN, FOREST, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_swampland;MEDIUM;0.8;true;true;false;[RARE, WET, SWAMP, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_ice_flats;COLD;0.0;false;true;true;[RARE, COLD, SNOWY, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_jungle;MEDIUM;0.95;true;true;false;[RARE, DENSE, JUNGLE, WET, MOUNTAIN, HOT]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_jungle_edge;MEDIUM;0.95;false;true;false;[RARE, JUNGLE, SPARSE, HOT, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_birch_forest;MEDIUM;0.6;false;true;false;[RARE, DENSE, FOREST, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_birch_forest_hills;MEDIUM;0.6;false;true;false;[RARE, DENSE, MOUNTAIN, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_roofed_forest;MEDIUM;0.7;false;true;false;[RARE, DENSE, MOUNTAIN, FOREST, SPOOKY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_taiga_cold;COLD;-0.5;false;true;true;[RARE, CONIFEROUS, MOUNTAIN, FOREST, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_redwood_taiga;MEDIUM;0.25;false;true;false;[RARE, DENSE, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_redwood_taiga_hills;MEDIUM;0.25;false;true;false;[RARE, DENSE, FOREST, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_extreme_hills_with_trees;MEDIUM;0.2;false;true;false;[RARE, SPARSE, MOUNTAIN]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_savanna;WARM;1.1;false;true;false;[SAVANNA, RARE, SPARSE, MOUNTAIN, DRY, HOT]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_savanna_rock;WARM;1.0;false;true;false;[SAVANNA, RARE, SPARSE, DRY, HOT, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_mesa;WARM;2.0;false;true;false;[RARE, SPARSE, MOUNTAIN, DRY, HOT]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_mesa_rock;WARM;2.0;false;true;false;[RARE, SPARSE, DRY, HOT, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: minecraft:mutated_mesa_clear_rock;WARM;2.0;false;true;false;[RARE, SPARSE, MOUNTAIN, DRY, HOT]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:gravel_beach;MEDIUM;0.6;false;false;false;[BEACH]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:white_beach;WARM;1.0;true;false;false;[BEACH]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:origin_beach;MEDIUM;0.6;false;false;false;[RARE, BEACH]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:alps;COLD;-0.25;false;false;true;[MOUNTAIN, DRY, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:bamboo_forest;MEDIUM;0.9;false;false;false;[JUNGLE, DENSE, WET, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:bayou;MEDIUM;0.95;true;false;false;[DENSE, SWAMP, WET, HOT]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:bog;MEDIUM;0.5;true;false;false;[SWAMP, WET, FOREST, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:boreal_forest;MEDIUM;0.3;false;false;false;[DENSE, CONIFEROUS, FOREST, COLD, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:brushland;WARM;1.5;false;false;false;[SAVANNA, SPARSE, DRY, HOT]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:chaparral;MEDIUM;0.8;false;false;false;[PLAINS, DRY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:cherry_blossom_grove;MEDIUM;0.55;false;false;false;[LUSH, DENSE, WET, FOREST, MAGICAL]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:cold_desert;MEDIUM;0.2;false;false;false;[DRY, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:coniferous_forest;MEDIUM;0.45;false;false;false;[DENSE, CONIFEROUS, FOREST, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:crag;MEDIUM;0.5;false;false;false;[WASTELAND, MOUNTAIN, DRY, COLD, HILLS, MAGICAL]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:dead_forest;MEDIUM;0.3;false;false;false;[SPARSE, DEAD, DRY, FOREST, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:dead_swamp;MEDIUM;0.6;true;false;false;[SWAMP, WET, SPARSE, DEAD, COLD, SPOOKY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:eucalyptus_forest;MEDIUM;0.95;true;false;false;[LUSH, JUNGLE, DENSE, WET, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:fen;MEDIUM;0.4;false;false;false;[DENSE, SWAMP, WET, DEAD, FOREST, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:flower_field;MEDIUM;0.7;false;false;false;[PLAINS, LUSH]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:grassland;MEDIUM;0.6;false;false;false;[PLAINS, WET, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:grove;MEDIUM;0.6;false;false;false;[PLAINS, LUSH, WET, SPARSE, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:highland;MEDIUM;0.6;false;false;false;[WET, MOUNTAIN, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:land_of_lakes;MEDIUM;0.5;true;false;false;[DENSE, SWAMP, WET, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:lavender_fields;MEDIUM;0.7;false;false;false;[PLAINS, LUSH, MAGICAL]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:lush_desert;WARM;1.2;false;false;false;[SAVANNA, LUSH, SPARSE, DRY, HOT, SANDY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:lush_swamp;MEDIUM;0.7;true;false;false;[LUSH, DENSE, SWAMP, WET]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:mangrove;MEDIUM;0.85;false;false;false;[WATER, LUSH, DENSE, SWAMP, WET]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:maple_woods;MEDIUM;0.25;false;false;false;[DENSE, CONIFEROUS, FOREST, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:marsh;MEDIUM;0.6;false;false;false;[LUSH, WET]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:meadow;MEDIUM;0.4;false;false;false;[PLAINS, LUSH, WET, SPARSE, FOREST, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:moor;MEDIUM;0.6;true;false;false;[SWAMP, WET, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:mountain;MEDIUM;0.5;false;false;false;[SPARSE, MOUNTAIN, DRY, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:mystic_grove;MEDIUM;0.7;false;false;false;[LUSH, RARE, DENSE, WET, FOREST, MAGICAL]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:ominous_woods;MEDIUM;0.6;false;false;false;[RARE, DENSE, WET, DEAD, FOREST, SPOOKY, MAGICAL]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:orchard;MEDIUM;0.7;false;false;false;[PLAINS, LUSH, DENSE, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:outback;WARM;2.0;false;false;false;[SAVANNA, SPARSE, DRY, HOT, SANDY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:overgrown_cliffs;MEDIUM;0.95;false;false;false;[LUSH, JUNGLE, DENSE, WET, MOUNTAIN, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:prairie;MEDIUM;0.8;false;false;false;[PLAINS, SPARSE, DRY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:quagmire;MEDIUM;0.6;true;false;false;[WASTELAND, SWAMP, WET, DEAD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:rainforest;MEDIUM;0.95;true;false;false;[LUSH, JUNGLE, DENSE, WET, FOREST, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:redwood_forest;MEDIUM;0.7;false;false;false;[DENSE, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:sacred_springs;MEDIUM;0.85;true;false;false;[LUSH, RARE, JUNGLE, DENSE, WET, FOREST, MAGICAL]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:seasonal_forest;MEDIUM;0.4;false;false;false;[DENSE, FOREST, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:shield;MEDIUM;0.4;false;false;false;[DENSE, WET, FOREST, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:shrubland;MEDIUM;0.6;false;false;false;[PLAINS, SPARSE, DRY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:snowy_coniferous_forest;COLD;-0.25;false;false;true;[DENSE, CONIFEROUS, FOREST, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:snowy_forest;COLD;-0.25;false;false;true;[WET, SPARSE, FOREST, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:steppe;MEDIUM;0.75;false;false;false;[PLAINS, DRY, SANDY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:temperate_rainforest;MEDIUM;0.75;true;false;false;[LUSH, DENSE, WET, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:tropical_rainforest;WARM;1.0;true;false;false;[LUSH, JUNGLE, DENSE, WET, HOT]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:tundra;MEDIUM;0.2;false;false;false;[WASTELAND, WET, SPARSE, DEAD, COLD]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:wasteland;WARM;2.0;false;false;false;[WASTELAND, SPARSE, DEAD, DRY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:wetland;MEDIUM;0.6;false;false;false;[LUSH, DENSE, SWAMP, WET, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:woodland;MEDIUM;0.7;false;false;false;[DENSE, DRY, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:xeric_shrubland;WARM;1.75;false;false;false;[SAVANNA, LUSH, SPARSE, DRY, HOT, SANDY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:alps_foothills;COLD;-0.25;false;false;true;[SPARSE, MOUNTAIN, DRY, FOREST, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:mountain_foothills;MEDIUM;0.5;false;false;false;[SPARSE, MOUNTAIN, DRY, FOREST, HILLS]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:redwood_forest_edge;MEDIUM;0.7;false;false;false;[DENSE, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:pasture;MEDIUM;0.8;false;false;false;[PLAINS, SPARSE, DRY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:glacier;COLD;-0.5;false;false;false;[WASTELAND, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:oasis;WARM;2.0;false;false;false;[LUSH, JUNGLE, WET, SPARSE, HOT, SANDY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:snowy_tundra;COLD;0.0;false;false;false;[WASTELAND, WET, SPARSE, DEAD, COLD, SNOWY]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:coral_reef;MEDIUM;0.5;false;false;false;[WATER, OCEAN]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:kelp_forest;MEDIUM;0.5;false;false;false;[WATER, OCEAN]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:origin_island;MEDIUM;0.6;false;false;false;[WATER, RARE, FOREST]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:tropical_island;MEDIUM;0.95;true;false;false;[WATER, LUSH, JUNGLE, DENSE, WET]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:volcanic_island;WARM;1.2;false;false;false;[WATER, WASTELAND, DEAD, MOUNTAIN, DRY, HOT]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:flower_island;MEDIUM;0.8;false;false;false;[WATER, PLAINS, LUSH, DENSE, MAGICAL]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:corrupted_sands;WARM;2.0;false;false;false;[DENSE, DRY, HOT, SANDY, NETHER]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:fungi_forest;WARM;2.0;false;false;false;[DENSE, HOT, NETHER, MUSHROOM]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:phantasmagoric_inferno;WARM;2.0;false;false;false;[WASTELAND, DRY, HOT, SPOOKY, NETHER, MAGICAL]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:undergarden;WARM;2.0;false;false;false;[LUSH, HOT, NETHER]
+[19:44:48] [Client thread/INFO] [harvestcraft]: biomesoplenty:visceral_heap;WARM;2.0;false;false;false;[WET, HOT, NETHER]
+[19:44:48] [Client thread/INFO] [harvestcraft]: Registering drops for shadedGarden.
+[19:44:48] [Client thread/INFO] [harvestcraft]: Registering drops for tropicalGarden.
+[19:44:48] [Client thread/INFO] [harvestcraft]: Registering drops for windyGarden.
+[19:44:48] [Client thread/INFO] [harvestcraft]: Registering drops for frostGarden.
+[19:44:48] [Client thread/INFO] [harvestcraft]: Registering drops for aridGarden.
+[19:44:48] [Client thread/INFO] [harvestcraft]: Registering drops for soggyGarden.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamapiary`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pammarket`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamshippingbin`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pampresser`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamgroundtrap`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamwatertrap`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamwaterfilter`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamgrinder`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:44:48] [Client thread/INFO] [STDOUT]: [com.example.rtkprotect.RTKProtect:init:40]: ✅ Token found: 4c76f37e-cd3a-4358-8c61-73182aa08719
+[19:44:48] [Client thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: java.lang.RuntimeException: Undefined discriminator for message type com.example.rtkprotect.RTKProtect$TokenMessage in channel rtk_channel
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[MessageToMessageEncoder.class:4.1.9.Final]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[MessageToMessageCodec.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[AbstractChannelHandlerContext.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[AbstractChannelHandlerContext.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[AbstractChannelHandlerContext.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[AbstractChannelHandlerContext.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[AbstractChannelHandlerContext.class:4.1.9.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[DefaultChannelPipeline.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[AbstractChannel.class:4.1.9.Final]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.example.rtkprotect.RTKProtect.init(RTKProtect.java:46) [RTKProtect.class:1.0]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:749) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: Undefined discriminator for message type com.example.rtkprotect.RTKProtect$TokenMessage in channel rtk_channel
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:76) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[MessageToMessageCodec$1.class:4.1.9.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[MessageToMessageEncoder.class:4.1.9.Final]
+	... 50 more
+[19:44:48] [Client thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+io.netty.handler.codec.EncoderException: java.lang.RuntimeException: Undefined discriminator for message type com.example.rtkprotect.RTKProtect$TokenMessage in channel rtk_channel
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[MessageToMessageEncoder.class:4.1.9.Final]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[MessageToMessageCodec.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[AbstractChannelHandlerContext.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[AbstractChannelHandlerContext.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[AbstractChannelHandlerContext.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[AbstractChannelHandlerContext.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[AbstractChannelHandlerContext.class:4.1.9.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[DefaultChannelPipeline.class:4.1.9.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[AbstractChannel.class:4.1.9.Final]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.example.rtkprotect.RTKProtect.init(RTKProtect.java:46) [RTKProtect.class:1.0]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:749) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: Undefined discriminator for message type com.example.rtkprotect.RTKProtect$TokenMessage in channel rtk_channel
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:76) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[MessageToMessageCodec$1.class:4.1.9.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[MessageToMessageEncoder.class:4.1.9.Final]
+	... 50 more
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Compatibility version 20
+[19:44:49] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NetHandlerPlayServer ...
+[19:44:49] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.util.ITickable ...
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Loading plugins
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Loaded 0 plugin(s)
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Initializing plugins
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Initialized 0 plugin(s)
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Initializing Opus
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Successfully initialized Opus
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Initializing RNNoise
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Successfully initialized RNNoise
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Initializing Speex
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Successfully initialized Speex
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Initializing LAME
+[19:44:49] [Client thread/INFO] [voicechat]: [voicechat] Successfully initialized LAME
+[19:44:49] [Client thread/INFO] [FML]: Injecting itemstacks
+[19:44:49] [Client thread/INFO] [FML]: Itemstack injection complete
+[19:44:49] [Client thread/INFO] [worldedit]: WorldEdit for Forge (version 6.1.10-SNAPSHOT) is loaded
+[19:44:49] [Client thread/INFO] [jei]: Starting JEI...
+[19:44:50] [Client thread/INFO] [jei]: Registering recipe categories...
+[19:44:50] [Client thread/INFO] [jei]: Registering recipe categories took 33.97 ms
+[19:44:50] [Client thread/INFO] [jei]: Registering mod plugins...
+[19:44:50] [Client thread/INFO] [jei]: Added recipe registry plugin: class team.chisel.common.integration.jei.ChiselRecipeRegistryPlugin
+[19:44:50] [Client thread/INFO] [jei]: Registering mod plugins took 175.6 ms
+[19:44:50] [Client thread/INFO] [jei]: Building recipe registry...
+[19:44:50] [Client thread/INFO] [jei]: Building recipe registry took 171.5 ms
+[19:44:50] [Client thread/INFO] [jei]: Building ingredient list...
+[19:44:50] [Client thread/INFO] [jei]: Building ingredient list took 70.98 ms
+[19:44:50] [Client thread/INFO] [jei]: Building ingredient filter...
+[19:44:51] [Client thread/INFO] [jei]: Building ingredient filter took 700.9 ms
+[19:44:51] [Client thread/INFO] [jei]: Building bookmarks...
+[19:44:51] [Client thread/INFO] [jei]: Building bookmarks took 3.783 ms
+[19:44:51] [Client thread/INFO] [jei]: Building runtime...
+[19:44:51] [Client thread/INFO] [jei]: Building runtime took 86.24 ms
+[19:44:51] [Client thread/INFO] [jei]: Optimizing memory usage...
+[19:44:51] [Client thread/INFO] [jei]: Optimizing memory usage took 68.55 ms
+[19:44:51] [Client thread/INFO] [jei]: Starting JEI took 1.800 s
+[19:44:52] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 35 mods
+[19:44:52] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[19:44:52] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[19:44:58] [Netty Client IO #0/INFO] [FML]: Attempting connection with missing mods [customskinloader, ctm, mobends] at SERVER
+[19:44:59] [Client thread/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to 147.185.221.211, 11880
+[19:44:59] [Client thread/INFO] [net.optifine.Log]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[19:44:59] [Client thread/INFO] [Config]: [OptiFine] *** Reloading custom textures ***
+[19:45:03] [Netty Client IO #1/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NettyCompressionDecoder ...
+[19:45:03] [Netty Client IO #1/INFO] [FML]: Server protocol version 2
+[19:45:04] [Netty Client IO #1/INFO] [FML]: Attempting connection with missing mods [customskinloader, ctm, mobends] at SERVER
+[19:45:04] [Client thread/INFO] [FML]: Injecting existing registry data into this client instance
+[19:45:04] [Client thread/INFO] [FML]: Registry Block: Found a missing id from the world ichunutil:compact_porkchop
+[19:45:05] [Client thread/INFO] [FML]: Applying holder lookups
+[19:45:05] [Client thread/INFO] [FML]: Holder lookups applied
+[19:45:06] [Netty Client IO #1/INFO] [FML]: [Netty Client IO #1] Client side modded connection established
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded workbench model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded importer model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded exporter model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded particle_emitter model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded blankomatic model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable1 model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable4 model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable16 model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output1 model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output4 model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output16 model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input1 model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input4 model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input16 model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded signal_display_16 model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded structure_builder model
+[19:45:06] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.renderer.chunk.ChunkRenderDispatcher ...
+[19:45:09] [Client thread/INFO] [voicechat]: [voicechat] Sending secret request to the server
+[19:45:10] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 69 advancements
+[19:45:13] [Client thread/INFO] [voicechat]: [voicechat] Received secret
+[19:45:13] [Client thread/INFO] [voicechat]: [voicechat] Connecting to voice chat server: '147.185.221.211:24454'
+[19:45:13] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:45:15] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:45:16] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:45:17] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:45:18] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:45:19] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:45:20] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:45:21] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:45:22] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:45:23] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:45:24] [VoiceChatAuthenticationThread/WARN] [voicechat]: [voicechat] Trying to authenticate voice chat connection (this message will not be logged again)
+[19:45:53] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.optifine.DynamicLight ...
+[19:48:33] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Set the time to 1000
+[19:49:13] [Client thread/INFO] [voicechat]: [voicechat] Clearing audio channels
+[19:49:13] [Client thread/INFO] [voicechat]: [voicechat] Disconnecting voicechat
+[19:49:15] [Client thread/INFO] [FML]: Applying holder lookups
+[19:49:15] [Client thread/INFO] [FML]: Holder lookups applied
+[19:49:17] [Netty Client IO #2/INFO] [FML]: Attempting connection with missing mods [customskinloader, ctm, mobends] at SERVER
+[19:55:06] [Netty Client IO #3/INFO] [FML]: Attempting connection with missing mods [customskinloader, ctm, mobends] at SERVER
+[19:55:07] [Client thread/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to 211.ip.gl.joinmc.link., 11880
+[19:55:08] [Netty Client IO #4/INFO] [FML]: Server protocol version 2
+[19:55:08] [Netty Client IO #4/INFO] [FML]: Attempting connection with missing mods [customskinloader, ctm, mobends] at SERVER
+[19:55:09] [Client thread/INFO] [FML]: Injecting existing registry data into this client instance
+[19:55:09] [Client thread/INFO] [FML]: Registry Block: Found a missing id from the world ichunutil:compact_porkchop
+[19:55:10] [Client thread/INFO] [FML]: Applying holder lookups
+[19:55:10] [Client thread/INFO] [FML]: Holder lookups applied
+[19:55:10] [Netty Client IO #4/INFO] [FML]: [Netty Client IO #4] Client side modded connection established
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded workbench model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded importer model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded exporter model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded particle_emitter model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded blankomatic model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable1 model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable4 model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable16 model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output1 model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output4 model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output16 model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input1 model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input4 model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input16 model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded signal_display_16 model
+[19:55:10] [Client thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded structure_builder model
+[19:55:11] [Client thread/INFO] [voicechat]: [voicechat] Sending secret request to the server
+[19:55:11] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 69 advancements
+[19:55:13] [Client thread/INFO] [voicechat]: [voicechat] Received secret
+[19:55:13] [Client thread/INFO] [voicechat]: [voicechat] Connecting to voice chat server: '147.185.221.211:24454'
+[19:55:13] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:55:14] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:55:15] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:55:16] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:55:17] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:55:18] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:55:19] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:55:20] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:55:21] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:55:22] [VoiceChatAuthenticationThread/INFO] [voicechat]: [voicechat] Trying to authenticate voice chat connection
+[19:55:23] [VoiceChatAuthenticationThread/WARN] [voicechat]: [voicechat] Trying to authenticate voice chat connection (this message will not be logged again)
+[20:05:07] [Client thread/INFO] [voicechat]: [voicechat] Clearing audio channels
+[20:05:07] [Client thread/INFO] [voicechat]: [voicechat] Disconnecting voicechat
+[20:05:08] [Client thread/INFO] [FML]: Applying holder lookups
+[20:05:08] [Client thread/INFO] [FML]: Holder lookups applied
+[20:05:09] [Netty Client IO #5/INFO] [FML]: Attempting connection with missing mods [customskinloader, ctm, mobends] at SERVER
+[20:18:51] [Netty Client IO #6/INFO] [FML]: Attempting connection with missing mods [customskinloader, ctm, mobends] at SERVER
+[20:18:58] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[20:18:58] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[20:18:58] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

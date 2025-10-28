@@ -1,0 +1,162 @@
+[2025-10-26 19:45:09] [Client thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.25
+[2025-10-26 19:45:09] [Client thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\multv\1L.py\LauncherRTK\CustomSkinLoader
+[2025-10-26 19:45:09] [Client thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 8.1 (amd64) version 6.3
+[2025-10-26 19:45:09] [Client thread/INFO] [CustomSkinLoader Core]: Java Version: 1.8.0_51, Oracle Corporation
+[2025-10-26 19:45:09] [Client thread/INFO] [CustomSkinLoader Core]: Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[2025-10-26 19:45:09] [Client thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.12.2
+[2025-10-26 19:45:09] [Client thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\multv\1L.py\LauncherRTK\CustomSkinLoader\CustomSkinLoader.json
+[2025-10-26 19:45:09] [Client thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: version : 14.25
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: buildNumber : 34
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2025-10-26 19:45:10] [Client thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: Loading kol49's profile.
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'GameProfile'.
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'Mojang'.
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: Payload: ["kol49"]
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request https://api.mojang.com/profiles/minecraft (Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target)
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.(kol49's profile not found.)
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'LittleSkin'.
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/kol49.json'.
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\multv\1L.py\LauncherRTK\CustomSkinLoader\caches\b805d89eae33a7e7dd30e537fb706703b145c1ff' , Expire: 1761504405)
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'BlessingSkin'.
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/kol49.json'.
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'ElyBy'.
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/kol49'.
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'C:\Users\multv\1L.py\LauncherRTK\CustomSkinLoader\caches\ec6aadef9217ae730738aad665ae3362a07a9aa4' , Expire: 1761507567)
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\multv\1L.py\LauncherRTK\CustomSkinLoader\caches\ec6aadef9217ae730738aad665ae3362a07a9aa4'.
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Content: 
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'SkinMe'.
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/kol49.json'.
+[2025-10-26 19:45:10] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/kol49.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2025-10-26 19:45:10] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-26 19:45:10][2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed method run in class net.minecraft.client.resources.SkinManager$3$1
+//auth.tlauncher.org/skin/profile/texture/login/kol49'.
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 82 , Path: 'C:\Users\multv\1L.py\LauncherRTK\CustomSkinLoader\caches\c97f231bbd680879746feaf687f0675feef7d25b' , Expire: 1761504403)
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_kol49.png"}}
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'GlitchlessGames'.
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=kol49'.
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=kol49 (Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target)
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'LocalSkin'.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: Payload: ["kol49"]
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request https://api.mojang.com/profiles/minecraft (Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target)
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/kol49.png'.
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: Payload: ["kol49"]
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request https://api.mojang.com/profiles/minecraft (Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target)
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/kol49.png'.
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: Payload: ["kol49"]
+[2025-10-26 19:45:11] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request https://api.mojang.com/profiles/minecraft (Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target)
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: kol49's profile loaded.
+[2025-10-26 19:45:11] [kol49/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_kol49.png , Model: default , CapeUrl: null  , Expiry: 1761504341)
+[2025-10-26 19:55:11] [kol49/INFO] [CustomSkinLoader Core]: Loading kol49's profile.
+[2025-10-26 19:55:11] [kol49/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'GameProfile'.
+[2025-10-26 19:55:11] [kol49/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'Mojang'.
+[2025-10-26 19:55:11] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2025-10-26 19:55:11] [kol49/INFO] [CustomSkinLoader Core]: Payload: ["kol49"]
+[2025-10-26 19:55:11] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request https://api.mojang.com/profiles/minecraft (Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target)
+[2025-10-26 19:55:11] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.(kol49's profile not found.)
+[2025-10-26 19:55:11] [kol49/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'LittleSkin'.
+[2025-10-26 19:55:11] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/kol49.json'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\multv\1L.py\LauncherRTK\CustomSkinLoader\caches\b805d89eae33a7e7dd30e537fb706703b145c1ff' , Expire: 1761505002)
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'BlessingSkin'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/kol49.json'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'ElyBy'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/kol49'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'C:\Users\multv\1L.py\LauncherRTK\CustomSkinLoader\caches\ec6aadef9217ae730738aad665ae3362a07a9aa4' , Expire: 1761507567)
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\multv\1L.py\LauncherRTK\CustomSkinLoader\caches\ec6aadef9217ae730738aad665ae3362a07a9aa4'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Content: 
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'SkinMe'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/kol49.json'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/kol49.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'TLauncher'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/kol49'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 82 , Path: 'C:\Users\multv\1L.py\LauncherRTK\CustomSkinLoader\caches\c97f231bbd680879746feaf687f0675feef7d25b' , Expire: 1761505003)
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_kol49.png"}}
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'GlitchlessGames'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=kol49'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=kol49 (Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target)
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'LocalSkin'.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: Payload: ["kol49"]
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request https://api.mojang.com/profiles/minecraft (Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target)
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/kol49.png'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: Payload: ["kol49"]
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request https://api.mojang.com/profiles/minecraft (Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target)
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: Profile not found.
+[2025-10-26 19:55:12] [kol49/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
+[2025-10-26 19:55:12] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/kol49.png'.
+[2025-10-26 19:55:13] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2025-10-26 19:55:13] [kol49/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2025-10-26 19:55:13] [kol49/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2025-10-26 19:55:13] [kol49/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2025-10-26 19:55:13] [kol49/INFO] [CustomSkinLoader Core]: Payload: ["kol49"]
+[2025-10-26 19:55:13] [kol49/DEBUG] [CustomSkinLoader Core]: Failed to request https://api.mojang.com/profiles/minecraft (Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target)
+[2025-10-26 19:55:13] [kol49/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2025-10-26 19:55:13] [kol49/INFO] [CustomSkinLoader Core]: kol49's profile loaded.
+[2025-10-26 19:55:13] [kol49/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_kol49.png , Model: default , CapeUrl: null  , Expiry: 1761504943)

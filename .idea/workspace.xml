@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36a0c9ed-fbc1-4360-a7de-a609d6f3ddbf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomSkinLoader/CustomSkinLoader.log" beforeDir="false" afterPath="$PROJECT_DIR$/CustomSkinLoader/CustomSkinLoader.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomSkinLoader/caches/b805d89eae33a7e7dd30e537fb706703b145c1ff.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomSkinLoader/caches/b805d89eae33a7e7dd30e537fb706703b145c1ff.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomSkinLoader/caches/c97f231bbd680879746feaf687f0675feef7d25b.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomSkinLoader/caches/c97f231bbd680879746feaf687f0675feef7d25b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomSkinLoader/caches/ec6aadef9217ae730738aad665ae3362a07a9aa4.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomSkinLoader/caches/ec6aadef9217ae730738aad665ae3362a07a9aa4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin panel.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin panel.py" beforeDir="false" afterPath="$PROJECT_DIR$/admin panel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/auth_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Clauncher/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/Clauncher/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Clauncher/Clauncher.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/Clauncher/Clauncher.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Clauncher/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/Clauncher/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Clauncher/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/Clauncher/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Clauncher/warn-Clauncher.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Clauncher/warn-Clauncher.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Clauncher/xref-Clauncher.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/Clauncher/xref-Clauncher.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/jei/worldSettings.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/config/jei/worldSettings.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/worldedit/worldedit.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/worldedit/worldedit.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launchertgbot/tgpayment.py" beforeDir="false" afterPath="$PROJECT_DIR$/launchertgbot/tgpayment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2.2.1/Clauncher.exe" beforeDir="false" afterPath="$PROJECT_DIR$/v2.2.1/Clauncher.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32gnuAybNDptWHyMoB3m3KLTBlV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Clauncher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LauncherRTK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.admin panel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.auth_server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tgpayment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\multv\1L.py\LauncherRTK\launchertgbot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.LauncherRTK">
+    <configuration name="LauncherRTK" type="PythonConfigurationType" factoryName="Python">
+      <module name="LauncherRTK" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/auth_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LauncherRTK" type="Python.FlaskServer">
+      <module name="LauncherRTK" />
+      <option name="target" value="$PROJECT_DIR$/auth_server.py" />
+      <option name="targetType" value="PATH" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36a0c9ed-fbc1-4360-a7de-a609d6f3ddbf" name="Changes" comment="" />
+      <created>1757851303055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757851303055</updated>
+      <workItem from="1757851311527" duration="486000" />
+      <workItem from="1757851805685" duration="465000" />
+      <workItem from="1757852279377" duration="194000" />
+      <workItem from="1757852497368" duration="4426000" />
+      <workItem from="1757864909319" duration="1267000" />
+      <workItem from="1757890294282" duration="1434000" />
+      <workItem from="1757891740014" duration="11914000" />
+      <workItem from="1757977609541" duration="3292000" />
+      <workItem from="1757981011287" duration="3703000" />
+      <workItem from="1758953710206" duration="7661000" />
+      <workItem from="1758961855791" duration="40000" />
+      <workItem from="1758962161079" duration="4000" />
+      <workItem from="1758962313839" duration="37633000" />
+      <workItem from="1759152654290" duration="18522000" />
+      <workItem from="1759399342282" duration="26487000" />
+      <workItem from="1759673262718" duration="8841000" />
+      <workItem from="1760132791312" duration="2814000" />
+      <workItem from="1760553123920" duration="728000" />
+      <workItem from="1761122627532" duration="3084000" />
+      <workItem from="1761481730516" duration="902000" />
+      <workItem from="1761663713164" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Clauncher_py$auth_server.coverage" NAME="auth_server Coverage Results" MODIFIED="1759696930471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LauncherRTK$Clauncher.coverage" NAME="Clauncher Coverage Results" MODIFIED="1757977518016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Clauncher_py$admin_panel.coverage" NAME="admin panel Coverage Results" MODIFIED="1759580340612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LauncherRTK$admin_panel.coverage" NAME="admin panel Coverage Results" MODIFIED="1757892302692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auth_server_py$auth_server.coverage" NAME="auth_server Coverage Results" MODIFIED="1760553233645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tgpayment_py$auth_server.coverage" NAME="auth_server Coverage Results" MODIFIED="1761125324478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tgpayment_py$tgpayment.coverage" NAME="tgpayment Coverage Results" MODIFIED="1761125350255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/launchertgbot" />
+    <SUITE FILE_PATH="coverage/tgpayment_py$Clauncher.coverage" NAME="Clauncher Coverage Results" MODIFIED="1761125281257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LauncherRTK$auth_server.coverage" NAME="auth_server Coverage Results" MODIFIED="1757976389820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Clauncher_py$tgpayment.coverage" NAME="tgpayment Coverage Results" MODIFIED="1759680900987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/launchertgbot" />
+    <SUITE FILE_PATH="coverage/Clauncher_py$Clauncher.coverage" NAME="Clauncher Coverage Results" MODIFIED="1759700726336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

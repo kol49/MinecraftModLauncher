@@ -1,0 +1,13 @@
+JVM info: Eclipse Adoptium - 17.0.16 - 17.0.16+8
+java.net.preferIPv4Stack=true
+Current Time: 27/09/2025 17:39:35
+Host: files.minecraftforge.net [172.67.161.211, 104.21.58.163]
+Host: maven.minecraftforge.net [172.67.161.211, 104.21.58.163]
+Host: libraries.minecraft.net [13.107.253.45, 13.107.226.45]
+Host: launchermeta.mojang.com [13.107.253.45, 13.107.226.45]
+Host: piston-meta.mojang.com [13.107.253.45, 13.107.226.45]
+Host: sessionserver.mojang.com [13.107.253.45, 13.107.226.45]
+Host: authserver.mojang.com [Unknown]
+Target Directory: .
+There is no minecraft launcher profile in ".", you need to run the launcher first!
+There was an error during installation
